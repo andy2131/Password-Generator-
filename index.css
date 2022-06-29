@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    margin:0px;
+    background-image: url(gradient.jpg);
+}
+
+#output {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px 80px;
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 30px;
+    font-weight: 5px;
+    color: black;
+}
+
+h1 {
+    font-family: Tahoma, Arial, Verdana;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 70px;
+    font-weight: 10px;
+}
+
+.green { 
+    color:rgb(116, 24, 119);
+}
+
+h2 {
+    font-family: Tahoma, Arial, Verdana;
+    color:white;
+    margin-top: 0px;
+    font-size: 30px;
+    font-weight: 5px;
+}
+
+button {
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 20px;
+    font-weight: 10px;
+    border-radius: 10px;
+    border: 5px  outset rgb(160, 36, 139);
+    padding: 15px;
+    color: white;
+    background-color: rgb(116, 16, 156);
+    margin:10px;
+}
+
+.buttons {
+    display: flex;
+    margin:20px auto;
+    padding-left: 85px;
+    width:500px;
+}
+
+.columns {
+    display: flex;
+    padding-left: 135px;
+    margin:0 auto;
+    width:500px;
+}
+
+.column {
+   margin: auto 10px;
+}
+
+#length {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border:none;
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 20px;
+    font-weight: 4px;
+    color: black;
+    text-align: center;
+}
+
+label {
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 20px;
+    font-weight: 4px;
+    color: white;
+}
+
+
+
+
+
+
+
+
